@@ -12,5 +12,5 @@ npm install -g cnpm --registry=https://registry.npm.taobao.org
 // 接下来再执行
 
 npm i
-```
 
+```
