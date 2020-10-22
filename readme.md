@@ -14,3 +14,14 @@ npm install -g cnpm --registry=https://registry.npm.taobao.org
 npm i
 
 ```
+### 文件
+#### 1.assets       主要存放静态文件  比如icon 和图片
+#### 1.axios        数据交互基础库，请求的函数库，
+#### 1.components   各个组件的源码存放地方
+#### 1.config       配置项存放处
+#### 1.pages        页面源码存放
+#### 1.reducer      主要存放redux 通用函数
+#### 1.routes       主要存放router 相关函数
+#### 1.styles       通用样式 相关换肤
+#### 1.utils        主要存放通用函数
+
